@@ -11,3 +11,7 @@
 | beleive your skils can be developed | beleive your skils are set  |
 | competing with yourself  | competing with others  |
 | i can do this with differant stratigy  | i can't do this  |
+
+# introduce myself
+*i'm saif ahmad hamaydeh i'm 25 years old i gratuted from yarmouk university in 2020 
+my major is computer information system *
