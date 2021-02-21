@@ -1,37 +1,4 @@
-#Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+#githup : collaborative websit, powered py git , with cloud - based tools for software teams and open-sorce software projects
 
-##Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word,
- you click buttons to format words and phrases, and the changes are visible immediately.
-  Markdown isn’t like that. When you create a Markdown-formatted file,
- you add Markdown syntax to the text to indicate which words and phrases should look different.
+#git :is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance.
 
- Headers
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-Emphasis
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-Lists
-Unordered
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-Ordered
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-Images
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-Links
-http://github.com - automatic!
-[GitHub](http://github.com)
