@@ -4,5 +4,8 @@
 
 | the page  | link |
 | ------------- | ------------- |
-|  home | https://saifhamaydeh.github.io/reading-notes/home.md  |
-| Content Cell  | Content Cell  |
+
+ | markdown |[markdown](https://saifhamaydeh.github.io/reading-notes/markdown.md)  |
+|  home     |[ACP](https://saifhamaydeh.github.io/reading-notes/ACP.md)   |
+|  home     |[GIT&GITHUP](https://saifhamaydeh.github.io/reading-notes/GIT&GITHUP.md)   |
+|  home     |[README](https://saifhamaydeh.github.io/reading-notes/README.md)   |
