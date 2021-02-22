@@ -5,7 +5,7 @@
 | the page  | link |
 | ------------- | ------------- |
 
- | markdown |[markdown](https://saifhamaydeh.github.io/reading-notes/markdown)  |
+ | markdowm |[markdown](https://saifhamaydeh.github.io/reading-notes/markdowm)  |
 |  home     |[ACP](https://saifhamaydeh.github.io/reading-notes/ACP)   |
 |  home     |[GIT&GITHUP](https://saifhamaydeh.github.io/reading-notes/GIT&GITHUP)   |
 |  home     |[README](https://saifhamaydeh.github.io/reading-notes/README
