@@ -6,9 +6,9 @@
 
 
 | markdowm |[markdown](https://saifhamaydeh.github.io/reading-notes/markdowm)  |
-|  home     |[ACP](https://saifhamaydeh.github.io/reading-notes/ACP)   |
+|  add&commit&push |[ACP](https://saifhamaydeh.github.io/reading-notes/ACP)   |
 | GIT&GITHUP     |[GIT&GITHUP](https://saifhamaydeh.github.io/reading-notes/GIT&GITHUP)   |
-| markdowm |[markdown](https://saifhamaydeh.github.io/reading-notes/markdowm)  |
+|EXPRESSIONS |[EXPRESSIONS](https://saifhamaydeh.github.io/reading-notes/EXPRESSIONS)  |
 | markdowm |[markdown](https://saifhamaydeh.github.io/reading-notes/markdowm)  |
 | markdowm |[markdown](https://saifhamaydeh.github.io/reading-notes/markdowm)  |
 | markdowm |[markdown](https://saifhamaydeh.github.io/reading-notes/markdowm)  |
