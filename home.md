@@ -19,4 +19,4 @@
 | markdowm |[markdown](https://saifhamaydeh.github.io/reading-notes/markdowm)  |
 | markdowm |[markdown](https://saifhamaydeh.github.io/reading-notes/markdowm)  |
 | markdowm |[markdown](https://saifhamaydeh.github.io/reading-notes/markdowm)  |
-| markdowm |[markdown](https://saifhamaydeh.github.io/reading-notes/markdowm)  |
+| comparison&loops |[markdown](https://saifhamaydeh.github.io/reading-notes/comparison&loops)  |
