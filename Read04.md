@@ -87,6 +87,7 @@ within your code. If you declare it within a function, it can only be used
 within that function. This is known as the variable's scope. 
 
 ## 6 Reasons for Pair Programming
+### How to pair programe effectively
 1. Greater efficiency
 2. Engaged collaboration
 3. Learning from fellow students
